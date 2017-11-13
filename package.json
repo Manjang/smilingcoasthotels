@@ -1,0 +1,20 @@
+{
+  "name": "q-template",
+  "version": "1.0.0",
+  "description": "Quest Website starter template template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "The Quest Team",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.1.0"
+  }
+}

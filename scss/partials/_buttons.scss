@@ -1,0 +1,24 @@
+.btn {
+    display: inline-block;
+    padding: 15px 35px;
+    border-radius: 5px;
+    font-size: 19px;
+    border-color: transparent;
+    text-decoration: none;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: $secondary-color;
+}
+
+.book-now-btn {
+    display: inline-block;
+    padding: 6px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #ffffff;
+    border-color: transparent;
+    text-decoration: none;
+    background: green;
+}
