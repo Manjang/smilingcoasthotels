@@ -145,7 +145,7 @@ body {
   background-color: #2a3137;
   color: #a6afb6; }
   .widgets-wrap {
-    max-width: 1350px;
+    max-width: 1250px;
     margin: auto;
     padding: 60px 45px;
     display: flex;
@@ -195,7 +195,7 @@ body {
   flex-flow: row wrap;
   justify-content: space-between;
   align-items: center;
-  max-width: 1350px;
+  max-width: 1250px;
   margin: 50px auto; }
 
 .recognized-by-text {
@@ -241,7 +241,7 @@ body {
   padding: 50px 0;
   box-shadow: 0 1px 8px 1px rgba(0, 0, 0, 0.25); }
   .testimonials-row .testimonial-wrap {
-    max-width: 1350px;
+    max-width: 1250px;
     margin: 50px auto;
     display: flex;
     flex-direction: column;
@@ -255,7 +255,7 @@ body {
 .hotels-row {
   display: flex;
   flex-flow: row wrap;
-  max-width: 1350px;
+  max-width: 1250px;
   margin: auto; }
   .hotels-row .hotel-card {
     width: calc(100% - 50px);
@@ -601,7 +601,7 @@ body {
 
 .main-wrapper {
   width: calc(100% - 80px);
-  max-width: 1350px;
+  max-width: 1250px;
   margin: auto; }
 
 .rating-gallery {
